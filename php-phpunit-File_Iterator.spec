@@ -9,7 +9,7 @@ License:	BSD License
 Group:		Development/Languages/PHP
 Source0:	http://pear.phpunit.de/get/%{pearname}-%{version}.tgz
 # Source0-md5:	8658ddc33b4996aba71234c49efcc927
-URL:		http://pear.phpunit.de/package/File_Iterator/
+URL:		http://pear.phpunit.de/
 BuildRequires:	php-channel(pear.phpunit.de)
 BuildRequires:	php-packagexml2cl
 BuildRequires:	php-pear-PEAR
