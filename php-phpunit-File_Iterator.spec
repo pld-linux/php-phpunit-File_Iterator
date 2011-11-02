@@ -3,12 +3,12 @@
 %define		pearname	File_Iterator
 Summary:	FilterIterator implementation that filters files based on a list of suffixes
 Name:		php-phpunit-File_Iterator
-Version:	1.2.6
+Version:	1.3.0
 Release:	1
 License:	BSD License
 Group:		Development/Languages/PHP
 Source0:	http://pear.phpunit.de/get/%{pearname}-%{version}.tgz
-# Source0-md5:	71eff93348378cee84026976f945bff8
+# Source0-md5:	198f99b9f0b4a28b2f32e9478cc24fce
 URL:		http://pear.phpunit.de/
 BuildRequires:	php-channel(pear.phpunit.de)
 BuildRequires:	php-packagexml2cl
