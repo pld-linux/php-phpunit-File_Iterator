@@ -1,4 +1,3 @@
-%include	/usr/lib/rpm/macros.php
 %define		status		stable
 %define		pearname	File_Iterator
 Summary:	FilterIterator implementation that filters files based on a list of suffixes
